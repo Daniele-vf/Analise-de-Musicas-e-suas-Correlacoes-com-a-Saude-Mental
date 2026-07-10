@@ -43,4 +43,4 @@ Este projeto foi fundamental para iniciar meu entendimento no ciclo inicial de u
 ---
 
 ## Links Úteis
-* Dataset original: [Music & Mental Health Survey Results (Kaggle)](https://www.kaggle.com/datasets/catherinewang/music-and-mental-health-survey-results)
+* Dataset original: [Music & Mental Health Survey Results (Kaggle)](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results)
